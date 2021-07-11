@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #75b5aa;
+  color: #aa759f;
   text-rendering: optimizeLegibility;
 }
 
@@ -345,7 +345,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #75b5aa;
+  color: #aa759f;
 }
 
 .page-title,
