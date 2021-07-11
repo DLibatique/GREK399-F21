@@ -17,7 +17,7 @@ permalink: /
 ## Course Information
 
 **Meeting Time:** TR 11am to 12:15pm  
-**Meeting Place:**  Online (Zoom)  
+**Meeting Place:** TBD  
 **Instructor:** Prof. Daniel Libatique (he/him/his)  
 **Office:** Fenwick 410  
 **Student Hours:** TBD  
