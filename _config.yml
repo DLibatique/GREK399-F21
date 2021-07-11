@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+include:          ['_pages', '_subpages']
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            The Greek Novel
+tagline:          'GREK 399'
+course_number:    'GREK 399'
+section_number:   '01'
+semester:         'Fall 2021'
+url:              https://libatique.info/GREK399-F21
+baseurl:          /
+
+author:
+  name:           'Daniel Libatique'
+  url:            https://libatique.info
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/dlibatique/GREK399-F21
