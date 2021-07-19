@@ -10,7 +10,7 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### TBD
+**TBD**
 
 ***
 
@@ -20,7 +20,7 @@ permalink: /
 **Meeting Place:** TBD  
 **Instructor:** Prof. Daniel Libatique (he/him/his)  
 **Office:** Fenwick 410  
-**Student Hours:** TBD  
+**Student Hours:** W 10:30-11:30am, Th 9-10am, or by appointment  
 **E-mail:** dlibatiq [at] holycross.edu  
 **Website:** [Click here.](https://libatique.info)
 
@@ -28,10 +28,13 @@ permalink: /
 
 ## Course Objectives
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* to develop Greek (sight) reading skills, primarily in Longus' prose
+* to practice detailed analysis and close reading of passages in Greek
+* to understand the genre of the Greek novel and what ties its works together
+* to explore the purpose of fiction in ancient and modern contexts
 
 ***
 
 ## Course Description
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This course examines the ancient Greek novel, a genre of fictional prose from the period of the Roman Empire that dramatizes relationships that weather obstacles, like pirate kidnappings or suspicions of infidelity, to reach a satisfying, romantic conclusion. We will build your ancient Greek reading skills, learn about the genre, and explore its connection (or lack thereof?) to its historical environment. Our primary text will be Longus' *Daphnis and Chloe*, and our course's assignments will invite you to engage in detail with the text and others that make up the canon of Greek novels, including Chariton's *Callirhoe*, and Achilles Tatius' *Leucippe and Clitophon*, Xenophon of Ephesus' *Ephesiaca*, and Heliodorus' *Aethiopica*.
