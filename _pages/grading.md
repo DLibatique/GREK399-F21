@@ -9,14 +9,13 @@ order: 3
 
 ## Reading Journal: 25%
 
-I will ask you to keep a journal of your progress as you read through the Greek assignments for the semester. For each class period that you prepare a Greek reading for, you are to create an entry in your journal that answers the following questions (even if the answers are "no"):
+I will ask you to keep a journal of your progress as you read through the Greek assignments for the semester. For each class period that you prepare a Greek reading for, you are to create an entry in your journal that answers at least a few of the following questions (even if the answers are "no"):
 
-* What date is the target assignment for, and what was the target assignment?
-* How much of the assignment did you complete?
-* Are there any grammatical or syntactic constructions that you found difficult in what you read?
-* Are there any grammatical or syntactic constructions that you found easy to understand?
-* Are there any vocabulary words that you found particularly interesting? If so, why are they interesting to you?
-* Any overall thoughts on the assignment? Ideas that catch your eye, questions that arise as you read about the plot, etc.?
+* **Boring stuff**: What date is the target assignment for, what was the target assignment, and how much of it were you able to prepare?
+* **Grammar/Syntax**: Any constructions that you found particularly difficult? Any that you found easy to understand?
+* **Vocabulary**: Any vocab words that you found particularly interesting, for whatever reason? (Time permitting, why are these words interesting to you?)
+* **Visual aids**: Include any diagrams or indentation schemes that you created to figure out the structure of the sentences in the assignment.
+* **Tie it together**: Any overall thoughts on the assignment? Ideas that catch your eye, questions that arise as you read about the plot, etc.?
 
 There is no minimum or maximum length for an entry, and you can format an entry in whatever way makes the most sense to you (full sentences / paragraphs, bullet points, etc.).
 

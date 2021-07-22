@@ -38,10 +38,10 @@ Intro: The Greek Novel
 
 ### Tuesday, September 21
 * Quiz 2 Due
-* 1.11-14
+* 1.11-12
 
 ### Thursday, September 23
-* 1.15-18
+* 1.13-14
 
 ***
 
@@ -49,10 +49,10 @@ Intro: The Greek Novel
 
 ### Tuesday, September 28
 * Quiz 3 Due
-* 1.19-21
+* 1.15-18
 
 ### Thursday, September 30
-* 1.28-32
+* 1.19-21
 
 ***
 
@@ -60,10 +60,10 @@ Intro: The Greek Novel
 
 ### Tuesday, October 5
 * Quiz 4 Due
-* 2.3-7
+* 1.28-30
 
 ### Thursday, October 7
-* 2.8-11
+* 1.31-32
 
 ***
 
@@ -75,10 +75,10 @@ Intro: The Greek Novel
 
 ### Tuesday, October 19
 * Quiz 5 Due
-* 3.12-14
+* 2.3-5
 
 ### Thursday, October 21
-* 3.15-17
+* 2.6-8
 
 ***
 
@@ -86,10 +86,10 @@ Intro: The Greek Novel
 
 ### Tuesday, October 26
 * Quiz 6 Due
-* 3.18-20
+* 3.12-14
 
 ### Thursday, October 28  
-* 4.10-12
+* 3.15-17
 
 ***
 
@@ -97,10 +97,10 @@ Intro: The Greek Novel
 
 ### Tuesday, November 2
 * Quiz 7 Due
-* 4.13-15
+* 3.18-20
 
 ### Thursday, November 4
-* 4.16-18
+* 4.10-12
 
 ***
 
@@ -108,10 +108,10 @@ Intro: The Greek Novel
 
 ### Tuesday, November 9
 * Quiz 8 Due
-* 4.19-21
+* 4.16-18
 
 ### Thursday, November 11
-* 4.22-25 (26 either in Greek or in translation)
+* 4.19-21
 
 ***
 
@@ -119,10 +119,10 @@ Intro: The Greek Novel
 
 ### Tuesday, November 16
 * Quiz 9 Due
-* 4.27-29
+* 4.22-25 (26 either in Greek or in translation)
 
 ### Thursday, November 18
-* 4.30-33
+* 4.27-30
 
 ***
 
@@ -130,7 +130,7 @@ Intro: The Greek Novel
 
 ### Tuesday, November 23
 * Quiz 10 Due
-* 4.34-36
+* 4.31-33
 
 ***
 
@@ -141,17 +141,17 @@ Intro: The Greek Novel
 ## Week 13
 
 ### Tuesday, November 30
-* 4.37-40
+* 4.34-37
 
 ### Thursday, December 2
-* Quiz 11 Due
-* Flex
+* 4.38-40
 
 ***
 
 ## Week 14
 
 ### Tuesday, December 7
+* Quiz 11 Due
 * Unessay Presentations (?)
 
 ### Thursday, December 9
