@@ -21,7 +21,7 @@ There is no minimum or maximum length for an entry, and you can format an entry 
 
 You can keep your journal in whatever way makes the most sense to you (a physical notebook, a Google Doc, etc.), but you will be required to submit your journal entry every class period, so take that into account when choosing a format.
 
-There will be about 22 journal entries throughout the semester. Your journals will be graded on whether all 22 entries are complete on time or not. You will not be penalized for not preparing assignments in full or not having long answers to each question for every entry.
+There will be about 23 journal entries throughout the semester. Your journals will be graded on whether all 23 entries are complete on time or not. You will not be penalized for not preparing assignments in full or not having long answers to each question for every entry.
 
 ***
 

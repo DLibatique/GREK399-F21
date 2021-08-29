@@ -106,19 +106,19 @@ Here are some examples of Unessay formats that you might adapt!
 Your Unessay project should be completed in the following stages, each of which will carry a certain amount of weight for the project’s total of 35% of your semester grade:
 
 ### One-on-One Meeting (2.5%)
-By **TBD**, you should have met with me either in student hours or by appointment to discuss what you’re thinking about for your Unessay one-on-one. At this meeting, you will *not* be expected to have a fully fleshed-out idea; I’d just like to chat with you about what direction you might want to take your Unessay in and how the remaining readings or topics in the course may help you with that project! A full 2.5% will be awarded for coming to the meeting prepared to chat about your potential project.
+By **Friday, October 1**, you should have met with me either in student hours or by appointment to discuss what you’re thinking about for your Unessay one-on-one. At this meeting, you will *not* be expected to have a fully fleshed-out idea; I’d just like to chat with you about what direction you might want to take your Unessay in and how the remaining readings or topics in the course may help you with that project! A full 2.5% will be awarded for coming to the meeting prepared to chat about your potential project.
 
 ### Formal Proposal (5%)
-By **TBD**, you should submit via Canvas a formal proposal for your Unessay. Details of the formal proposal can be found [at this link](unessay-proposal).
+By **Friday, October 8**, you should submit via Canvas a formal proposal for your Unessay. Details of the formal proposal can be found [at this link](unessay-proposal).
 
 ### Check-In (2.5%)
-**Between TBD and TBD,** you will be expected to meet with me in student hours or via appointment or shoot me a quick email to detail your progress on your Unessay. How much have you completed? How much further do you have to go? It’s totally fine if you don’t have much in the way of progress; just be honest about it. A full 2.5% will be awarded for meeting this deadline.
+**Between Tuesday, November 16, and Tuesday, November 23,** you will be expected to meet with me in student hours or via appointment or shoot me a quick email to detail your progress on your Unessay. How much have you completed? How much further do you have to go? It’s totally fine if you don’t have much in the way of progress; just be honest about it. A full 2.5% will be awarded for meeting this deadline.
 
 ### In-Class Presentation (5%)
 On **Tuesday, December 7, and Thursday, December 9,** our last two days of class, you will present what you have of your Unessay to us in a 5-10 minute presentation. To be clear, your Unessay is not expected to be fully complete by the time of your presentation, but far enough along that you can explain to us what your Unessay is, what your process was in creating it, what sources you used, and how it relates to the material of our course. Your presentation should be accompanied by a submittable handout. More details, including evaluation of the presentation, to come.
 
 ### Unessay (15%) and Reflection Paper (5%)
-By **TBD**, you should submit via email your Unessay and a reflection paper of about 2-4 pp. double-spaced that answers the following questions: what was the process of creating your Unessay like? Did you enjoy it? Why or why not? Was it difficult? Easy? How did completing your Unessay compare to “traditional” semester-long activities like a research paper or a final exam? Do you feel that your Unessay invited you to engage more deeply with the themes of our course?
+By the end of our registrar-appointed exam period, you should submit via email your Unessay and a reflection paper of about 2-4 pp. double-spaced that answers the following questions: what was the process of creating your Unessay like? Did you enjoy it? Why or why not? Was it difficult? Easy? How did completing your Unessay compare to “traditional” semester-long activities like a research paper or a final exam? Do you feel that your Unessay invited you to engage more deeply with the themes of our course?
 
 [Return to top.](#top)
 

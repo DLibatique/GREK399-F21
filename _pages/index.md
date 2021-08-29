@@ -10,7 +10,9 @@ permalink: /
 
 ## NEXT DEADLINES
 
-**TBD**
+### Tuesday, September 7
+* Read all of Longus' *Daphnis and Chloe* in translation (Reardon pp. 288-348). Feel free to skim to get the major plot points, rather than focusing on small details.
+* Prepare (in Greek) the Prologue.
 
 ***
 

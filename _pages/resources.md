@@ -10,6 +10,7 @@ order: 1
 ## Electronic Resources
 
 * [Longus on Diogenes](https://d.iogen.es/web/fileDisplay?ver=1.011&user=stud&host=local&filePath=texts/Perseus_Greek/data/tlg0561/tlg001/tlg0561.tlg001.perseus-grc2.xml): An online version of the text of Longus' *Daphnis and Chloe* where you can click on a word and get its morphological possibilities, à la Perseus.
+* [Reardon's *Collected Ancient Greek Novels*](https://drive.google.com/file/d/15xy0T1KKfWWKUdKqO01cyNDLNx3VwfK_/view?usp=sharing): A very legal totally not suspicious PDF of Reardon's *Collected Ancient Greek Novels*.
 * [Logeion: Lexidium](https://logeion.uchicago.edu/lexidium): An online version of the Liddell-Scott-Jones (LSJ) Greek to English Dictionary.
 * [Furman: LSJ](http://folio2.furman.edu/lsj/): Furman University's version of the LSJ.
 * [GroupMe](#): A GroupMe group to chat with one another and with me, ask quick questions, and share course-related thoughts, comments, and memes. Especially memes.

@@ -5,6 +5,8 @@ permalink: schedule
 order: 5
 ---
 
+For any given class period, the assignment(s) listed under the date should be prepared for that class; so, for example, you will be expected to come to class on Thursday, September 9, having prepared *Daphnis and Chloe* I.1-3.
+
 ## Week 1
 
 ### Thursday, September 2
@@ -82,7 +84,7 @@ Intro: The Greek Novel
 
 ***
 
-## Week 9
+## Week 8
 
 ### Tuesday, October 26
 * Quiz 6 Due
@@ -93,7 +95,7 @@ Intro: The Greek Novel
 
 ***
 
-## Week 10
+## Week 9
 
 ### Tuesday, November 2
 * Quiz 7 Due
@@ -104,7 +106,7 @@ Intro: The Greek Novel
 
 ***
 
-## Week 11
+## Week 10
 
 ### Tuesday, November 9
 * Quiz 8 Due
@@ -115,7 +117,7 @@ Intro: The Greek Novel
 
 ***
 
-## Week 12
+## Week 11
 
 ### Tuesday, November 16
 * Quiz 9 Due
@@ -126,7 +128,7 @@ Intro: The Greek Novel
 
 ***
 
-## Week 12.5
+## Week 12
 
 ### Tuesday, November 23
 * Quiz 10 Due
