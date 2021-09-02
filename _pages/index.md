@@ -13,13 +13,14 @@ permalink: /
 ### Tuesday, September 7
 * Read all of Longus' *Daphnis and Chloe* in translation (Reardon pp. 288-348). Feel free to skim to get the major plot points, rather than focusing on small details.
 * Prepare (in Greek) the Prologue (pp. 2-5).
+  * [Scan of commentary](https://drive.google.com/file/d/13pMtjVDLFEe5EtJR2YFuNGVdO7UD2kOc/view?usp=sharing)
 
 ***
 
 ## Course Information
 
 **Meeting Time:** TR 11am to 12:15pm  
-**Meeting Place:** TBD  
+**Meeting Place:** Fenwick 420  
 **Instructor:** Prof. Daniel Libatique (he/him/his)  
 **Office:** Fenwick 410  
 **Student Hours:** W 10:30-11:30am, Th 9-10am, or by appointment  

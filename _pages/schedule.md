@@ -19,9 +19,11 @@ Intro: The Greek Novel
 ### Tuesday, September 7
 * Read all of Longus' *Daphnis and Chloe* in translation (Reardon pp. 288-348). Feel free to skim to get the major plot points, rather than focusing on small details.
 * Prepare (in Greek) the Prologue (pp. 2-5).
+  * [Scan of commentary](https://drive.google.com/file/d/13pMtjVDLFEe5EtJR2YFuNGVdO7UD2kOc/view?usp=sharing)
 
 ### Thursday, September 9
 * 1.1-3
+  * [Scan of commentary](https://drive.google.com/file/d/13pMtjVDLFEe5EtJR2YFuNGVdO7UD2kOc/view?usp=sharing)
 
 ***
 
@@ -30,9 +32,11 @@ Intro: The Greek Novel
 ### Tuesday, September 14
 * Quiz 1 Due
 * 1.4-6
+  * [Scan of commentary](https://drive.google.com/file/d/13pMtjVDLFEe5EtJR2YFuNGVdO7UD2kOc/view?usp=sharing)
 
 ### Thursday, September 16
 * 1.7-10
+  * [Scan of commentary](https://drive.google.com/file/d/13pMtjVDLFEe5EtJR2YFuNGVdO7UD2kOc/view?usp=sharing)
 
 ***
 
