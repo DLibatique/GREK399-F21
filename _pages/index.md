@@ -10,9 +10,8 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Tuesday, September 7
-* Read all of Longus' *Daphnis and Chloe* in translation (Reardon pp. 288-348). Feel free to skim to get the major plot points, rather than focusing on small details.
-* Prepare (in Greek) the Prologue (pp. 2-5).
+### Thursday, September 9
+* Prepare 1.1-3
   * [Scan of commentary](https://drive.google.com/file/d/13pMtjVDLFEe5EtJR2YFuNGVdO7UD2kOc/view?usp=sharing)
 
 ***
