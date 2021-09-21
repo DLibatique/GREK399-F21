@@ -10,10 +10,12 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Tuesday, September 14
-* Prepare 1.4-6
-  * [Scan of commentary](https://drive.google.com/file/d/13pMtjVDLFEe5EtJR2YFuNGVdO7UD2kOc/view?usp=sharing)
-* Complete [Quiz 1](https://hc.instructure.com/courses/4336/assignments/48580)
+### Tuesday, September 21
+* Quiz 2 Due
+* 1.11-12
+
+### Thursday, September 23
+* 1.13-14
 
 ***
 
