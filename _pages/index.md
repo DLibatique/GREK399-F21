@@ -10,12 +10,15 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Tuesday, September 21
-* Quiz 2 Due
-* 1.11-12
+### Friday, October 8
+* Submit Unessay Formal Proposal
 
-### Thursday, September 23
-* 1.13-14
+### Fall Break
+* (suggested) - complete Book Report
+
+### Tuesday, October 19
+* Quiz 5 Due
+* 2.3-5
 
 ***
 
